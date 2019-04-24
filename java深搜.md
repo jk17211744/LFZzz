@@ -18,17 +18,27 @@ The input is terminated with three 0's. This test case is not to be processed.
 For each test case, print in one line "YES" if the doggie can survive, or "NO" otherwise. 
 ### Sample Input
 4 4 5
+
 S.X.
+
 ..X.
+
 ..XD
+
 ....
+
 3 4 5
+
 S.X.
+
 ..X.
+
 ...D
+
 0 0 0 
 ### Sample Output
 NO
+
 YES 
 
 ```
